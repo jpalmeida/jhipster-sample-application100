@@ -1,0 +1,4 @@
+/**
+ * Spring MVC REST controllers.
+ */
+package br.ufes.nemo.web.rest;
